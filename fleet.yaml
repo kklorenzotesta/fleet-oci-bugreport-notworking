@@ -1,0 +1,5 @@
+defaultNamespace: monitoring
+helm:
+  chart: "."
+  version: 0.1.0
+  releaseName: grafana
